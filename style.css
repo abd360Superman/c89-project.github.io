@@ -1,0 +1,19 @@
+body
+{
+	background-image: url(bg.jpg);
+    background-repeat: no-repeat, repeat;
+    background-color: #cccccc;
+}
+
+.divLeft {
+    float: left;
+}
+
+.divRight {
+    float: right;
+    background-color: aqua;
+}
+
+h1, h2, h3 {
+    color: greenyellow;
+}
